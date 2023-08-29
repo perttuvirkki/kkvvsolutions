@@ -59,3 +59,5 @@ Scrumissa on kolme pääroolia:
 ---
 
 Tämä on vain lyhyt yleiskatsaus. Scrum on monipuolinen viitekehys ja sen ymmärtämiseen syvällisesti suositellaan lisämateriaalien lukemista ja koulutusta.
+
+Lisää tietoa Scrumista löydät [virallisesta Scrum-oppaasta](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100)
