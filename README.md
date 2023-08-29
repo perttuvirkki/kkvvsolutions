@@ -2,7 +2,7 @@
 
 Tämä README-dokumentti tarjoaa yleiskuvauksen Scrum-metodologiasta, jota käytetään ohjelmistokehityksessä ja muissa monimutkaisissa projekteissa.
 
-## Sisältö
+### Sisältö
 
 1. [Scrum-syklin yleiskuvaus](#scrum-syklin-yleiskuvaus)
 2. [Sprintit](#sprintit)
@@ -13,25 +13,25 @@ Tämä README-dokumentti tarjoaa yleiskuvauksen Scrum-metodologiasta, jota käyt
 
 ---
 
-## Scrum-syklin yleiskuvaus
+### Scrum-syklin yleiskuvaus
 
 Scrum on iteratiivinen ja inkrementaalinen ohjelmistokehityksen viitekehys. Se jakaa projektin pienempiin osiin, joita kutsutaan "sprinteiksi". Jokainen sprint kestää yleensä 2-4 viikkoa ja päättyy toimivan tuoteinkrementin tuottamiseen.
 
 ---
 
-## Sprintit
+### Sprintit
 
 Sprintti on ajanjakso, jonka aikana tiimi tekee tuotteen työjonon päällimmäiset tehtävät saadakseen aikaan toimivan tuoteinkrementin. Sprintin alussa on suunnittelukokous ja lopussa arviointi ja retrospektiivi.
 
 ---
 
-## Työjonot
+### Työjonot
 
 Työjono eli "Product Backlog" on priorisoitu tehtävälista, joka sisältää kaikki tuotteen vaatimukset, ominaisuudet ja korjaukset. Scrum Master ja Product Owner työskentelevät yhdessä tehtävien priorisoinnissa ja määrittelyssä.
 
 ---
 
-## Roolit
+### Roolit
 
 Scrumissa on kolme pääroolia:
 
@@ -41,7 +41,7 @@ Scrumissa on kolme pääroolia:
 
 ---
 
-## Kokoukset
+### Kokoukset
 
 1. **Sprint Planning**: Määritellään, mitä tehdään seuraavassa sprintissä.
 2. **Daily Stand-up**: Päivittäinen kokous, jossa tiimi kertoo edistymisestä.
@@ -50,7 +50,7 @@ Scrumissa on kolme pääroolia:
 
 ---
 
-## Miksi Scrum toimii?
+### Miksi Scrum toimii?
 
 1. **Joustavuus**: Mahdollisuus mukautua muuttuviin vaatimuksiin.
 2. **Yhteistyö**: Tiivis kommunikaatio tiimin ja sidosryhmien välillä.
