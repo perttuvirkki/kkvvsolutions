@@ -2,4 +2,9 @@
 
 Scrum on ketterä malli, jota käytetään ohjelmistoprojekteissa. 
 
-Scrum-projekti koostuu sprinteistä, jotka kestävät yleensä 2-4 viikkoa.
+## Tuotteen kehitysjono
+
+## Sprintit
+Scrum-projekti koostuu sprinteistä, jotka ovat 2-4 viikkoa kestäviä työjaksoja.
+Yhden sprintin aikana pyritään tekemään valmiiksi asioita, jotka ovat olleet päällimmäisenä tuotteen työjonossa.
+Jos työ ei tule valmiiksi, se siirtyy seuraavaan sprinttiin.
