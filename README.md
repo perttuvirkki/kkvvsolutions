@@ -21,7 +21,7 @@ Scrum on iteratiivinen ja inkrementaalinen ohjelmistokehityksen viitekehys. Se j
 
 ## Sprintit
 
-Sprintti on ajanjakso, jonka aikana tiimi työskentelee valikoiman tehtäviä saadakseen aikaan toimivan tuoteinkrementin. Sprintin alussa on suunnittelukokous, ja lopussa arviointi ja retrospektiivi.
+Sprintti on ajanjakso, jonka aikana tiimi tekee tuotteen työjonon päällimmäiset tehtävät saadakseen aikaan toimivan tuoteinkrementin. Sprintin alussa on suunnittelukokous ja lopussa arviointi ja retrospektiivi.
 
 ---
 
@@ -58,4 +58,4 @@ Scrumissa on kolme pääroolia:
 
 ---
 
-Tämä on vain lyhyt yleiskatsaus. Scrum on monipuolinen viitekehys, ja sen ymmärtämiseen syvällisesti suositellaan lisämateriaalien lukemista ja koulutusta.
+Tämä on vain lyhyt yleiskatsaus. Scrum on monipuolinen viitekehys ja sen ymmärtämiseen syvällisesti suositellaan lisämateriaalien lukemista ja koulutusta.
