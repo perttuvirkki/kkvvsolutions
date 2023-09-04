@@ -35,26 +35,26 @@ Työjono eli "Product Backlog" on priorisoitu tehtävälista, joka sisältää *
 
 Scrumissa on kolme pääroolia:
 
-1. **Product Owner**: Vastaa tuotteen visiosta ja priorisoi työjonoa.
-2. **Scrum Master**: Auttaa tiimiä noudattamaan Scrum-prosessia ja poistaa esteitä.
-3. **Development Team**: Suorittaa tehtävät ja luo tuoteinkrementin.
+1. **Product Owner**: *Vastaa tuotteen visiosta ja priorisoi työjonoa.*
+2. **Scrum Master**: *Auttaa tiimiä noudattamaan Scrum-prosessia ja poistaa esteitä.*
+3. **Development Team**: *Suorittaa tehtävät ja luo tuoteinkrementin.*
 
 ---
 
 ### Kokoukset
 
-1. **Sprint Planning**: Määritellään, mitä tehdään seuraavassa sprintissä.
-2. **Daily Stand-up**: Päivittäinen kokous, jossa tiimi kertoo edistymisestä.
-3. **Sprint Review**: Arvioidaan sprintin tulokset ja päivitetään työjonoa tarvittaessa.
-4. **Sprint Retrospective**: Käydään läpi, mitä meni hyvin ja mitä voisi parantaa.
+1. **Sprint Planning**: *Määritellään, mitä tehdään seuraavassa sprintissä.*
+2. **Daily Stand-up**: *Päivittäinen kokous, jossa tiimi kertoo edistymisestä.*
+3. **Sprint Review**: *Arvioidaan sprintin tulokset ja päivitetään työjonoa tarvittaessa.*
+4. **Sprint Retrospective**: *Käydään läpi, mitä meni hyvin ja mitä voisi parantaa.*
 
 ---
 
 ### Miksi Scrum toimii?
 
-1. **Joustavuus**: Mahdollisuus mukautua muuttuviin vaatimuksiin.
-2. **Yhteistyö**: Tiivis kommunikaatio tiimin ja sidosryhmien välillä.
-3. **Näkyvyys**: Selkeät roolit ja avoin kommunikaatio tekevät edistymisestä näkyvää.
+1. **Joustavuus**: *Mahdollisuus mukautua muuttuviin vaatimuksiin.*
+2. **Yhteistyö**: *Tiivis kommunikaatio tiimin ja sidosryhmien välillä.*
+3. **Näkyvyys**: *Selkeät roolit ja avoin kommunikaatio tekevät edistymisestä näkyvää.*
 
 ---
 
